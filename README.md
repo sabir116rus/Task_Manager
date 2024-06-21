@@ -42,8 +42,7 @@ task_manager.display_current_tasks()
 
 ## Структура проекта
 
-- `task_manager.py` - Содержит реализацию классов Task и TaskManager.
-- `main.py` - Пример использования функциональности TaskManager.
+- `main.py` - Содержит реализацию классов Task и TaskManager и пример использования функциональности TaskManager.
 
 ## Классы и методы
 
